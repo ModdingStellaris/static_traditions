@@ -12,10 +12,10 @@ tr_diplomacy_adopt = {
 		inherit_name = no
 		trigger = {
 			OR = {
-				has_valid_civic = civic_fanatic_purifiers
-				has_valid_civic = civic_inwards_perfection
+				has_civic = civic_fanatic_purifiers
+				has_civic = civic_inwards_perfection
 				is_hive_empire = yes
-				has_valid_civic = civic_barbaric_despoilers
+				has_civic = civic_barbaric_despoilers
 				is_criminal_syndicate = yes
 			}
 		}
@@ -74,10 +74,10 @@ tr_diplomacy_finish = {
 		inherit_name = yes
 		trigger = {
 			OR = {
-				has_valid_civic = civic_fanatic_purifiers
-				has_valid_civic = civic_inwards_perfection
+				has_civic = civic_fanatic_purifiers
+				has_civic = civic_inwards_perfection
 				is_hive_empire = yes
-				has_valid_civic = civic_barbaric_despoilers
+				has_civic = civic_barbaric_despoilers
 				is_criminal_syndicate = yes
 			}
 		}
@@ -118,10 +118,10 @@ tr_diplomacy_the_federation = {
 		inherit_name = no
 		trigger = {
 			OR = {
-				has_valid_civic = civic_fanatic_purifiers
-				has_valid_civic = civic_inwards_perfection
-				has_valid_civic = civic_hive_devouring_swarm
-				has_valid_civic = civic_barbaric_despoilers
+				has_civic = civic_fanatic_purifiers
+				has_civic = civic_inwards_perfection
+				has_civic = civic_hive_devouring_swarm
+				has_civic = civic_barbaric_despoilers
 				is_criminal_syndicate = yes
 			}
 		}
@@ -170,10 +170,10 @@ tr_diplomacy_entente_coordination = {
 		inherit_name = no
 		trigger = {
 			OR = {
-				has_valid_civic = civic_fanatic_purifiers
-				has_valid_civic = civic_inwards_perfection
+				has_civic = civic_fanatic_purifiers
+				has_civic = civic_inwards_perfection
 				is_hive_empire = yes
-				has_valid_civic = civic_barbaric_despoilers
+				has_civic = civic_barbaric_despoilers
 				is_criminal_syndicate = yes
 			}
 		}
@@ -220,10 +220,10 @@ tr_diplomacy_open_markets = {
 		inherit_name = no
 		trigger = {
 			OR = {
-				has_valid_civic = civic_fanatic_purifiers
-				has_valid_civic = civic_inwards_perfection
+				has_civic = civic_fanatic_purifiers
+				has_civic = civic_inwards_perfection
 				is_hive_empire = yes
-				has_valid_civic = civic_barbaric_despoilers
+				has_civic = civic_barbaric_despoilers
 			}
 		}
 		modifier = {
@@ -271,10 +271,10 @@ tr_diplomacy_insider_trading = {
 		inherit_name = no
 		trigger = {
 			OR = {
-				has_valid_civic = civic_fanatic_purifiers
-				has_valid_civic = civic_inwards_perfection
+				has_civic = civic_fanatic_purifiers
+				has_civic = civic_inwards_perfection
 				is_hive_empire = yes
-				has_valid_civic = civic_barbaric_despoilers
+				has_civic = civic_barbaric_despoilers
 			}
 		}
 		modifier = {
@@ -324,10 +324,10 @@ tr_diplomacy_secure_shipping = {
 		inherit_name = no
 		trigger = {
 			OR = {
-				has_valid_civic = civic_fanatic_purifiers
-				has_valid_civic = civic_inwards_perfection
+				has_civic = civic_fanatic_purifiers
+				has_civic = civic_inwards_perfection
 				is_hive_empire = yes
-				has_valid_civic = civic_barbaric_despoilers
+				has_civic = civic_barbaric_despoilers
 			}
 		}
 		modifier = {
