@@ -2,7 +2,7 @@ name="Static Traditions"
 path="mod/static_traditions"
 tags={
 	"Gameplay"
+	"Fixes"
 	"Balance"
-	"Diplomacy"
 }
 supported_version="2.3.*"
