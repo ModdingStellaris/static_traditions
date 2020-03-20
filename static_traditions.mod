@@ -7,4 +7,4 @@ tags={
 }
 picture="static_traditions.png"
 remote_file_id="1761876190"
-supported_version="2.3.*"
+supported_version="2.6.*"
