@@ -12,10 +12,11 @@ tradition_diplomacy = {
 		name = tradition_adaptability
 		trigger = {
 			OR = {
-				has_civic = civic_fanatic_purifiers
-				has_civic = civic_inwards_perfection
-				has_civic = civic_barbaric_despoilers
+				has_valid_civic = civic_fanatic_purifiers
+				has_valid_civic = civic_inwards_perfection
+				has_valid_civic = civic_barbaric_despoilers
 				has_authority = auth_hive_mind
+				has_origin = origin_necrophage
 			}
 		}
 		weight = {
